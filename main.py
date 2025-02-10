@@ -1,6 +1,6 @@
-print("Welcome to the food oredering Chatbot")
+print("Welcome to the Food Ordering Chatbot")
 name = input("What is your name? ")
-age = input("Hello " + name + " , how old are you? ")
+age = input("Hello " + name )
 print(" How may I assist you ")
 print("1. Schedule")
 print("2. Available products")
